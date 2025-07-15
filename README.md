@@ -1,3 +1,7 @@
+### Live Application
+You can access the deployed web application here: [https://car-sales-dashboard-r3gp.onrender.com]
+(https://car-sales-dashboard-r3gp.onrender.com)
+
 # car-sales-dashboard
 
 This project is a web application dashboard built with Streamlit to analyze a dataset of car sales advertisements. Users can explore the data through various visualizations and interactive filters.
@@ -29,7 +33,7 @@ To run this project on your local machine, please follow these steps:
 
 2.  **Create and activate a virtual environment:**
     ```bash
-    python3 -m venv venv
+    python -m venv venv
     source venv/bin/activate
     ```
 
